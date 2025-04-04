@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">👨‍💻 Sobre mí<br>Soy ingeniero de sistemas con habilidades en React y Angular para el desarrollo frontend. Me apasiona crear interfaces interactivas y optimizadas para una gran experiencia de usuario.<br><br>🚀 Proyectos personales:<br><br>🌎 Conexión API Colombia: Aplicación que consume la API de Colombia para mostrar información detallada del país.<br><br>💡 Retotos: Una plataforma web que ofrece desafíos de programación para mejorar habilidades técnicas.</p>
+<h2 align="left">👨‍💻 Sobre mí</h2>
+
+###
+
+<p align="left">Soy ingeniero de sistemas con habilidades en React y Angular para el desarrollo frontend. También tengo experiencia en tecnologías backend como Node.js y Spring Boot, así como en gestores de bases de datos como PostgreSQL.<br>Me apasiona crear interfaces interactivas, funcionales y optimizadas para brindar una excelente experiencia de usuario. Además, disfruto buscar soluciones eficientes que aporten a un <br>codigo mantenible y escalable.<br><br>🚀 Proyectos personales<br><br>🌎 Conexión API Colombia: Aplicación que consume una API pública para mostrar información detallada sobre los departamentos y municipios de Colombia.<br><br>💡 Retotos: Plataforma web que presenta desafíos de programación, diseñada para ayudar a mejorar las habilidades técnicas de los desarrolladores.</p>
 
 ###
 
@@ -16,7 +20,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">✅ ANALISIS PARA EL DESARROLLO MOVIL CON APP INVENTOR - SENA<br>✅ DIPLOMADO EN CIENCIA DE DATOS CIUDADANOS - ESENCIAL - ESAP<br>✅ BOOTCAMP DE PROGRAMACIÓN NIVEL EXPLORADOR - UNIVERSIDAD SERGIO ARBOLEDA MINTIC</p>
 
 ###
 
